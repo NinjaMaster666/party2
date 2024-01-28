@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    padding: 7px;
+    border: 0px solid grey;
+    border-radius: 15px;
+}
+
+.discount {
+    color: grey;
+    border: 2px solid grey;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+h1 {
+    color:blue;
+    text-align: center;
+    font-size:big;
+    text-transform: uppercase
+}
+
+footer p{
+    border: 2px solid lightgrey;
+    text-align: justify;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+main a{
+    border: 3px solid navy;
+    padding: 8px;
+    color: navy;
+}
+
+nav a {
+    color: lightgrey;
+    border: 2px solid lightgrey;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+.price {
+    background-color: palegreen;
+    padding: 12px;
+}
+
+main {
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color:blue;
+}
